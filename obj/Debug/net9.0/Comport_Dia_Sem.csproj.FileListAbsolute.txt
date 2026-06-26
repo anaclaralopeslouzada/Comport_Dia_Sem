@@ -1,0 +1,5 @@
+C:\Users\anacl\OneDrive\Desktop\Comport_Dia_Sem\obj\Debug\net9.0\Comport_Dia_Sem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anacl\OneDrive\Desktop\Comport_Dia_Sem\obj\Debug\net9.0\Comport_Dia_Sem.AssemblyInfoInputs.cache
+C:\Users\anacl\OneDrive\Desktop\Comport_Dia_Sem\obj\Debug\net9.0\Comport_Dia_Sem.AssemblyInfo.cs
+C:\Users\anacl\OneDrive\Desktop\Comport_Dia_Sem\obj\Debug\net9.0\Comport_Dia_Sem.csproj.CoreCompileInputs.cache
+C:\Users\anacl\OneDrive\Desktop\Comport_Dia_Sem\obj\Debug\net9.0\Comport_Dia_Sem.sourcelink.json

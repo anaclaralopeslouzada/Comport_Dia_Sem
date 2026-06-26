@@ -1,4 +1,4 @@
-namespace ExercicioStrategy
+namespace Comport_Dia_Sem
 {
     public class EstrategiaNull : IEstrategiaDiaSemana
     {
