@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Comport_Dia_Sem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46a90375d47e99300d029479e5b14ff69a4b90c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65afaf23817e2019551fac232cd6cac2036db314")]
 [assembly: System.Reflection.AssemblyProductAttribute("Comport_Dia_Sem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Comport_Dia_Sem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

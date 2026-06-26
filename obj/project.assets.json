@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\anacl\\.nuget\\packages\\": {},
+    "C:\\Users\\thais\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anacl\\OneDrive\\Desktop\\Comport_Dia_Sem\\Comport_Dia_Sem.csproj",
+      "projectUniqueName": "C:\\Users\\thais\\OneDrive\\Documents\\projoo\\Comport_Dia_Sem\\Comport_Dia_Sem.csproj",
       "projectName": "Comport_Dia_Sem",
-      "projectPath": "C:\\Users\\anacl\\OneDrive\\Desktop\\Comport_Dia_Sem\\Comport_Dia_Sem.csproj",
-      "packagesPath": "C:\\Users\\anacl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anacl\\OneDrive\\Desktop\\Comport_Dia_Sem\\obj\\",
+      "projectPath": "C:\\Users\\thais\\OneDrive\\Documents\\projoo\\Comport_Dia_Sem\\Comport_Dia_Sem.csproj",
+      "packagesPath": "C:\\Users\\thais\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\thais\\OneDrive\\Documents\\projoo\\Comport_Dia_Sem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\anacl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\thais\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
