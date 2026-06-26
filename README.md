@@ -40,7 +40,7 @@ O padrão Null Object foi incorporado através da criação da classe `Estrategi
 
 **Exemplo 1: Entrada Válida (Quarta-feira)**
 ```text
-Usuário: Thaís
+Usuário: Ana
 Dia consultado: quarta-feira
 Prioridade: MÉDIA
 Mensagem: Dia de revisão: verifique o andamento da atividade 'Implementar relatório'.
@@ -48,8 +48,13 @@ Mensagem: Dia de revisão: verifique o andamento da atividade 'Implementar relat
 
 **Exemplo 2: Entrada Inválida (Sem estrategia associada)**
 ```text
-Usuário: Thaís
+Usuário: Thais
 Dia consultado: feriado
 Prioridade: NENHUMA
 Mensagem: Dia não reconhecido ou sem atividade agendada. Nenhuma ação necessária. Dias da semana possíveis: segunda-feira, terça-feira, quarta-feira, quinta-feira, sexta-feira, sábado, domingo.
 ```
+
+## Alunas
+- Ana Clara Lopez Louzada
+- Thaís Souza de Melo
+
